@@ -1,0 +1,12 @@
+{
+  "start": "2026-03-26T16:29:44.137419",
+  "packets_total": 0,
+  "http_requests": 0,
+  "https_connections": 0,
+  "raw_tcp_packets": 0,
+  "credential_alerts": 0,
+  "ip_counts": {},
+  "end": "2026-03-26T16:33:44.260462",
+  "unique_ips": 0,
+  "top_talkers": []
+}
